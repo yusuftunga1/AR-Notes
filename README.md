@@ -53,6 +53,7 @@ APK `app/build/outputs/apk/debug/` altında oluşur.
 ## Navigasyon
 - Ekran 1: Giriş/ayarlar
 - Ekran 2: AR sahnesi (plane tarama + not ekleme)
+- Ekran 3: Notlarım Listesi
 
 ## Test / Sorun giderme
 - Plane görünmüyorsa: yeterli ışık, düz yüzey; kamerayı yavaşça hareket ettir.
