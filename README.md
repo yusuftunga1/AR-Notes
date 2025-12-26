@@ -62,8 +62,3 @@ APK `app/build/outputs/apk/debug/` altında oluşur.
 ## İzinler
 - Kamera izni: ARCore için gerekli.
 
-## Ekran Görüntüleri
-- (Buraya `docs/` altına ekleyeceğin ekran görüntüsü/GIF yollarını listele)
-
-## İkon
-- Varsayılan launcher ikonu için `mipmap-*/ic_launcher*` kullanılmaktadır. Kendi ikonunu üretmek için Android Studio `Image Asset` sihirbazını kullanabilirsin.
